@@ -1,0 +1,15 @@
+{
+  "name": "first_nodejs_docker_containerization",
+  "version": "1.0.0",
+  "description": "🚀 Node.js + Express Docker Project\r Yeh project ek simple Node.js + Express app ko Dockerize karne ke liye hai. Is README me aapko step-by-step guide milega:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
